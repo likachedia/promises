@@ -92,9 +92,6 @@ function yearsAgo(year) {
   return yearNow - year;
 }
 
-function allContries(info) {
-
-}
 
 let minutsArr = []
 let populAll = 0;
